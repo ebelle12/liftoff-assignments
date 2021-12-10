@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The goal of this app is to provide the user with an easy,
+fast and more convenient way of meal prepping. 
+The user will be able to upload, update, 
+and navigate through key and vital ingredients 
+to make their meals come alive. In addtion it will 
+allow the user to organize and keep inventory of 
+their pantries.
+
+
 ### Features
-Include Features here
+1. User login: Allows user to create an account.
+2. User input: Allows user to enter ingredients already in their pantry.
+3. Search: Allows user to search recipes based off the ingredients they already have on hand.
 ### Technologies
-Include Technologies here
+1.  Java
+2. Thymeleaf
+3. HTML/CSS
+4. MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+In order to implement this in a proper functioning way have
+to learn how to set up Intellij from scratch.
+Learn how to pull an API using REST. And, 
+I will also have to learn how to merge branches.
 ### Project Tracker
 Link to your Trello board here
